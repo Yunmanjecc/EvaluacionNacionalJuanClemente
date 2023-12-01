@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ProjectMqtt"
+rootProject.name = "Organizador de tareas"
 include ':app'
