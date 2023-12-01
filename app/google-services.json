@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767418069931",
+    "project_id": "evaluacion-nacional-9963f",
+    "storage_bucket": "evaluacion-nacional-9963f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767418069931:android:34a99d4259ba3b987218ee",
+        "android_client_info": {
+          "package_name": "twin.developers.projectmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw51tGpwX7JaXF3qdZM9jOeFx-4AHAQpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
